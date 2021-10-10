@@ -45,4 +45,4 @@ npm run deploy
 
 About the license of source code and scripts, please see [License](./LICENSE) file.
 
-However, the license of country polygons data belong to World Bank, please follow their license and use their attribution (eg. `©WorldBank`).
+However, the license of country polygons data belong to World Bank, please follow their license which is [Creative Commons Attribution 4.0](https://datacatalog.worldbank.org/public-licenses?fragment=cc) and use their attribution (eg. `©WorldBank`).
