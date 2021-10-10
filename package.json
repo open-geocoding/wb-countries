@@ -1,0 +1,24 @@
+{
+  "name": "wb-countries",
+  "version": "1.0.0",
+  "description": "This repository is to manage countries' vector tiles of World Bank",
+  "main": "index.js",
+  "scripts": {
+    "build": "bash bin/build.sh",
+    "deploy": "gh-pages -d docs -m 'deploy tiles'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-geocoding/wb-countries.git"
+  },
+  "author": "Geolonia, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-geocoding/wb-countries/issues"
+  },
+  "homepage": "https://github.com/open-geocoding/wb-countries#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "readline": "^1.3.0"
+  }
+}
